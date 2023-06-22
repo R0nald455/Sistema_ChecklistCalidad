@@ -25,7 +25,7 @@
                 if(isset($_GET['mensaje']) and $_GET['mensaje'] == 'registrado'){
             ?>
             <div class="alert alert-success alert-dismissible fade show" role="alert">
-            <strong>Registrado!</strong> Actividad registrada perfectamente!!!!.
+            <strong>Registrado!</strong> Checklist registrada perfectamente!!!!.
             <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
             </div>
             <?php 
